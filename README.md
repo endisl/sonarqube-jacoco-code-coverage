@@ -1,7 +1,6 @@
 <h2>Projeto: Uso do SonarQube</h2>
 
-Após o estudo e a implementação do projeto "Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja", procurou-se aprender 
-a utilização da ferramenta SonarQube que permite:
+Após o estudo e a implementação do projeto "Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja", procurou-se se inteirar sobre a ferramenta SonarQube que permite:
 * analisar a cobertura do código
 * detectar bugs
 * sugerir melhorias no código
